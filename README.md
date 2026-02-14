@@ -18,15 +18,15 @@ Ce dossier contient l'interface utilisateur (UI) personnalisée pour **Portal: N
 Pour modifier les titres ou les maps, tout se passe dans le fichier de script principal. 
 
 > [!IMPORTANT]
-> **Chemin du fichier :** `D:\SteamLibrary\steamapps\common\Portal 2 Community Edition\notalie\panorama\scripts\pages\main-menu\chapter-select.ts` (ou .json selon ta version).
+> **Chemin du fichier :** `C:\Steam\steamapps\common\Portal: Not a Lie\panorama\scripts\pages\main-menu\chapter-select.ts`.
 
 ### Liste des Chapitres Actuels :
 
 | Chapitre | Titre | Map (BSP) | Ambiance |
 | :--- | :--- | :--- | :--- |
-| **01** | **Initialisation Stérile** | `sp_a1_intro` | Réveil, style New Aperture blanc. |
-| **02** | **Vecteurs de Mobilité** | `sp_a1_course` | Introduction aux mécaniques. |
-| **03** | **Réconfiguration Dynamique** | `sp_a1_factory` | Usine en mouvement. |
+| **01** | **Reprise Des Protocoles** | `sp_a1` | Réveil, style New Aperture blanc. |
+| **02** | **L'Architecture du Silence** | `sp_a2` | Introduction aux nouvelles mécaniques. |
+| **03** | **Étalonnage Structurel** | `sp_a3` | Usine en mouvement. |
 
 ---
 
