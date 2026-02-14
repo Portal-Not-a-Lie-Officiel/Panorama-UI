@@ -1,6 +1,6 @@
 # 💠 P2CE UI Redesign - [Nom de Ton Mod]
 
-Ce dossier contient l'interface utilisateur (UI) personnalisée pour **[Nom de Ton Mod]**, basée sur le travail original de **ddddpplo**. L'interface utilise le framework **Panorama** de Valve pour offrir une expérience moderne et fluide dans le style "New Aperture".
+Ce dossier contient l'interface utilisateur (UI) personnalisée pour **Portal: Not a Lie**, basée sur le travail original de **ddddpplo**. L'interface utilise le framework **Panorama** de Valve pour offrir une expérience moderne et fluide dans le style "New Aperture".
 
 ---
 
