@@ -1,10 +1,10 @@
-# 💠 P2CE UI Redesign - Portal: Not a Lie
+# P2CE UI Redesign - Portal: Not a Lie
 
-Ce dossier contient l'interface utilisateur (UI) personnalisée pour **Portal: Not a Lie**, basée sur le travail original de **ddddpplo**. L'interface utilise le framework **Panorama** de Valve pour offrir une expérience moderne et fluide dans le style "New Aperture".
+Ce dossier contient l'interface utilisateur (UI) personnalisée pour **Portal: Not a Lie**. L'interface utilise le framework **Panorama** de Valve pour offrir une expérience moderne et fluide dans le style "New Aperture".
 
 ---
 
-## 🚀 Structure du Projet
+## Structure du Projet
 
 * **`layout/`** : Contient les fichiers XML qui définissent la structure visuelle des menus.
 * **`styles/`** : Fichiers CSS (PSS) pour les couleurs, les animations et le design global.
@@ -13,7 +13,7 @@ Ce dossier contient l'interface utilisateur (UI) personnalisée pour **Portal: N
 
 ---
 
-## 📖 Configuration des Chapitres
+## Configuration des Chapitres
 
 Pour modifier les titres ou les maps, tout se passe dans le fichier de script principal. 
 
@@ -30,7 +30,7 @@ Pour modifier les titres ou les maps, tout se passe dans le fichier de script pr
 
 ---
 
-## 🛠️ Instructions de Modification
+## Instructions de Modification
 
 ### Modifier un Titre
 1. Ouvre le script de gestion des chapitres.
@@ -43,10 +43,7 @@ Les images doivent être au format `.png` ou `.svg` et placées dans :
 
 ---
 
-## 📜 Crédits
-* **Base UI** : [ddddpplo](https://github.com/ddddpplo/p2ce-ui-redesign)
 * **Modding & Design** : KITSUNe
 * **Moteur** : Portal 2: Community Edition (P2CE)
 
 ---
-  *Fait avec amour pour la communauté Portal.*
